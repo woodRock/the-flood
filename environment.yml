@@ -1,4 +1,4 @@
-name: aiml420
+name: hackathon
 channels:
   - conda-forge
   - defaults
